@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Poppins', sans-serif;
+}
+pre {
+  font-size: 7em;
+}
+.marks .land {
+}
+.marks .sphere {
+ fill: white;
+}
+.marks .interiors {
+  fill: none;
+}
+.marks .graticules {
+  fill: none;
+  stroke: #dadada;
+}
+.tick line {
+stroke: #C0C0BB;
+}
+.tick text {
+fill: #635F5D;
+  font-size: 0.5em;
+}
+ pre {
+        font-size: 7em;
+      }
+.axis-label {
+font-size: 0.5em;
+fill: #635F5D;
+}
+
+.legend{
+  fill=black;
+  font-size: 0.9em;
+  font-color: black;
+}
+
+.filtering{
+  position: absolute;
+  top: 55px;
+
+}
+.color_filtering{
+	position: absolute;
+  top: 75px;
+}
+
+svg{
+  position: absolute;
+  top: 90px;
+
+}
+.check{
+	float:left;
+  padding-left: 30px;
+}
+.check1{
+	float:left;
+  padding-left: 47px;
+}
+.check2{
+	float:left;
+  padding-left: 92px;
+}
+.check3{
+	float:left;
+  padding-left: 75px;
+}
+
+.title{
+  position: absolute;
+	font-size: 1.6em;
+  left: 280px;
+  margin:0;
+  top: 15px;
+}
+.cat{
+  font-size: 1.2em;
+}
+.tickss{
+	font-size: 0.8em;
+}
